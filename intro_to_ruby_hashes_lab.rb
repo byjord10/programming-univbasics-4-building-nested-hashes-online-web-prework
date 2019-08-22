@@ -60,7 +60,6 @@ def monopoly_with_fourth_tier
 				:pennsylvania_railroad => "$200",
 				:b_and_o_railroad => "$400",
 				:shortline_railroad => "$800"
-			},
 
 
 		},
