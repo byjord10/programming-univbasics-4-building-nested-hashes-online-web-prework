@@ -69,7 +69,7 @@ def monopoly_with_fourth_tier
 					"mortgage_value" => "$800"
 
 
-		}
+		},
 	}
 	}
   # When you start writing the implementation for this method, copy the Hash
