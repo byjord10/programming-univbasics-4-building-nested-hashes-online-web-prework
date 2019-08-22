@@ -1,6 +1,6 @@
 def base_hash
 base_hash = {
-	"monopoly" => 1
+	:railroads => 1
 }
 end
   # Remember implicit return! We're returning this new Hash _without_ the
